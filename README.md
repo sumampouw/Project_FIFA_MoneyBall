@@ -4,9 +4,11 @@
 
 ## The objectives
 
-The objective in this project is to perform an end-to-end analysis putting into practice what I have learned so far using statistical and machine learning techniques.
+This project aims to perform an end-to-end analysis putting into practice what I have learned so far using statistical and machine learning techniques.
 
 ### The outcomes in this project:
+
+
 
 - Descriptive Statistics.
 - Players value in the market.
@@ -46,7 +48,7 @@ This data set includes:
     |  Market Value of the Player |  |
     |||
 
-3. **And more data**
+3. **And more and more data...**
 
 ## Tools
 
@@ -71,4 +73,4 @@ This data set includes:
 
 ![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/fin.jpeg)
 
-The analysis has successfully answered all the questions and has provided an insight about the data and more. Information is everything, hence having it we can create, model, and predict to have the best outcomes possibles. :wink:
+The analysis has successfully answered all the questions and has provided an insight into the data and more. Information is everything; hence, we can create, model, and predict to have the best outcomes possible. :wink:
