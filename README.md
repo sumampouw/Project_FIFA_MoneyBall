@@ -8,8 +8,6 @@ The objective in this project is to perform an end-to-end analysis putting into 
 
 ### The outcomes in this project:
 
-![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/mid.jpeg)
-
 - Descriptive Statistics.
 - Players value in the market.
 - Top players for their outstanding performances.
@@ -17,6 +15,8 @@ The objective in this project is to perform an end-to-end analysis putting into 
 - Top nation for their outstanding performances.
 - Top potential young players for their outstanding performances.
 - Dream team from actual and potential young players.
+
+![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/mid.jpeg)
 
 ## Dataset
 
