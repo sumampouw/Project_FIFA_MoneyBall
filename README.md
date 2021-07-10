@@ -1,6 +1,6 @@
 # Project_FIFA_MoneyBall
 
-![photo](/Users/spicasumampouw/IronSpica/project/Project_FIFA_MoneyBall/Images/intro.jpeg)
+![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/intro.jpeg)
 
 ## The objectives
 
