@@ -69,7 +69,7 @@ This data set includes:
 - Statistics (EDA)
 - Visual findings
 
-## Result & conlusion
+## Result & conclusion
 
 ![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/fin.jpeg)
 
