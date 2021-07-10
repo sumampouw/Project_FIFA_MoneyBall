@@ -8,7 +8,7 @@ This project aims to perform an end-to-end analysis putting into practice what I
 
 ### The outcomes in this project:
 
-
+The result uses analyzing the data using exploratory data analysis (EDA), summarizing the dataset's statistical aspects, and providing insights. Further on, show results using friendly user data visualization.
 
 - Descriptive Statistics.
 - Players value in the market.
