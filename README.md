@@ -8,6 +8,8 @@ The objective in this project is to perform an end-to-end analysis putting into 
 
 ### The outcomes in this project:
 
+![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/mid.jpeg)
+
 - Descriptive Statistics.
 - Players value in the market.
 - Top players for their outstanding performances.
@@ -66,5 +68,7 @@ This data set includes:
 - Visual findings
 
 ## Result & conlusion
+
+![photo](https://github.com/sumampouw/Project_FIFA_MoneyBall/blob/main/Images/fin.jpeg)
 
 The analysis has successfully answered all the questions and has provided an insight about the data and more. Information is everything, hence having it we can create, model, and predict to have the best outcomes possibles. :wink:
